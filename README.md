@@ -1,14 +1,9 @@
 # hdvecs
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library implementing computation with high dimensional vectors.
 
-## Usage
+## Background
 
-FIXME
+Current implementation based on Tony Plate's *Holographic Reduced Representations* (IEEETransactions on Neural Networks, 1995)
 
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Planned second implementation based on Pentti Kanerva's *Hyperdimensional Computing* (Cognitive Computation, 2009)
